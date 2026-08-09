@@ -1,19 +1,3 @@
-<p align="center">
-  <svg width="100%" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#FF5733" />
-        <stop offset="20%" stop-color="#33FF57" />
-        <stop offset="40%" stop-color="#3357FF" />
-        <stop offset="60%" stop-color="#F3FF33" />
-        <stop offset="80%" stop-color="#FF33F6" />
-        <stop offset="100%" stop-color="#33FFF6" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="48" font-weight="900" fill="url(#rainbow)" text-anchor="middle" letter-spacing="6">
-      COLORGUESSR
-    </text>
-  </svg>
-</p>
+<p align="center"> <svg width="100%" height="90" viewBox="0 0 600 90" xmlns="http://www.w3.org/2000/svg"> <defs> <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%"> <stop offset="0%" stop-color="#FF5733" /> <stop offset="20%" stop-color="#33FF57" /> <stop offset="40%" stop-color="#3357FF" /> <stop offset="60%" stop-color="#F3FF33" /> <stop offset="80%" stop-color="#FF33F6" /> <stop offset="100%" stop-color="#33FFF6" /> </linearGradient> </defs> <text x="50%" y="55" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="48" font-weight="900" fill="url(#rainbow)" text-anchor="middle" letter-spacing="6"> COLORGUESSR </text> </svg> </p> <p align="center"> <em>🎨 Can your eyes decode a HEX code? Prove it. 🎨</em> </p> <p align="center"> <img src="https://img.shields.io/badge/status-in%20development-orange?style=for-the-badge" alt="status" /> <img src="https://img.shields.io/badge/difficulty-surprisingly%20hard-critical?style=for-the-badge" alt="difficulty" /> <img src="https://img.shields.io/badge/made%20with-%23HEXcode-blueviolet?style=for-the-badge" alt="made with hex" /> <img src="https://img.shields.io/badge/fun-guaranteed-ff33f6?style=for-the-badge" alt="fun" /> </p> <p align="center"> <img src="https://img.shields.io/badge/%23FF5733-FF5733?style=flat-square" /> <img src="https://img.shields.io/badge/%2333FF57-33FF57?style=flat-square" /> <img src="https://img.shields.io/badge/%233357FF-3357FF?style=flat-square" /> <img src="https://img.shields.io/badge/%23F3FF33-F3FF33?style=flat-square" /> <img src="https://img.shields.io/badge/%23FF33F6-FF33F6?style=flat-square" /> <img src="https://img.shields.io/badge/%2333FFF6-33FFF6?style=flat-square" /> </p>
 
 fun game where you need to guess a color based on a HEX code! hard but fun!
