@@ -1,3 +1,19 @@
-<h1><span style="color: #FF5733;">C</span><span style="color: #3357FF;">O</span><span style="color: #33FF57;">L</span><span style="color: #F3FF33;">O</span><span style="color: #FF33F6;">R</span><span style="color: #33FFF6;">G</span><span style="color: #FF8333;">U</span><span style="color: #9D33FF;">E</span><span style="color: #FF3380;">S</span><span style="color: #33FFB5;">S</span><span style="color: #B5FF33;">R</span></h1>
+<p align="center">
+  <svg width="100%" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FF5733" />
+        <stop offset="20%" stop-color="#33FF57" />
+        <stop offset="40%" stop-color="#3357FF" />
+        <stop offset="60%" stop-color="#F3FF33" />
+        <stop offset="80%" stop-color="#FF33F6" />
+        <stop offset="100%" stop-color="#33FFF6" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="48" font-weight="900" fill="url(#rainbow)" text-anchor="middle" letter-spacing="6">
+      COLORGUESSR
+    </text>
+  </svg>
+</p>
 
 fun game where you need to guess a color based on a HEX code! hard but fun!
